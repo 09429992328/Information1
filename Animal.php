@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html>
 <head>
 	<title></title>
@@ -14,20 +14,19 @@ include("Animal.php");
 
 <?Php
 
-$Malayan = new Tiger("Malayan", "Black");
-echo "Its a ".$Malayan->get_breed();
-echo " <br>Its color ".$Malayan->get_color();
-echo "<br>It lives in Savannas<br><br>";
+$Sumatran = new Tiger("Sumatran ", "Orange");
+echo "Its a ".$Sumatran ->get_breed();
+echo " <br>Its color ".$Sumatran ->get_color();
+echo "<br>It lives in Plain<br><br>";
 
-$Labrador = new Dog("Labrador", "White");
-$Labrador->set_Owner("Arthuro");
-echo "its a".$Labrador->get_breed();
-echo " <br>Its color ".$Labrador->get_color();
-echo "<br>Her master is <br>".$Labrador->get_owner();
+$Chihuahua = new Dog("Chihuahua", "Gray");
+$Chihuahua->set_Owner("Bieber");
+echo "its a".$Chihuahua->get_breed();
+echo " <br>Its color ".$Chihuahua->get_color();
+echo "<br>Her master is <br>".$Chihuahua->get_owner();
 
 
 ?>
 
 </body>
 </html>
-
