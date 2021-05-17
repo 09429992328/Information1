@@ -37,7 +37,7 @@ font-family: arial;
     color: white;
     font-size: 24px;
     padding: 20px 0 20px 0;
-    border-bottom: 1px solid pink;
+    border-bottom: 1px solid miracle;
 }
 .login form {
     display: flex;
@@ -54,7 +54,7 @@ font-family: arial;
     width: 50px;
     height: 50px;
     background-color: #A5D8DD;
-   border-right: 2px solid pink;
+   border-right: 2px green;
     color: #EA6A47;
 }
 .login form input[type="password"], .login form input[type="text"] {
