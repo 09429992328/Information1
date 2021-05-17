@@ -123,7 +123,7 @@ th
 }
 
 td{
-	background-color: rgb(246, 240, 240);
+	background-color: teal(#008080);
 }
 
 </style>
