@@ -48,7 +48,7 @@ $list = $read->read();
 		padding: 2px;
 	}
 	label{
-		color: red;
+		color: pink;
 		font-weight: normal;
 	}
 	.padtop{
@@ -64,7 +64,7 @@ $list = $read->read();
 	</style>
 	
 		<body>
-			<div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom box-shadow">
+			<div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-gray border-bottom box-shadow">
       		<h5 class="my-0 mr-md-auto font-weight-normal">MySite</h5>
       		<nav class="my-2 my-md-0 mr-md-3">
 			<a class="btn btn-outline-primary" href="../process/logout.php">Logout</a>
@@ -72,7 +72,7 @@ $list = $read->read();
 			</div>
 
             <div class="container">
-  <div class="page-header-left" style = "position:absolute; left:10px;color:white;background-color:royalblue; width:400px;">
+  <div class="page-header-left" style = "position:absolute; left:10px;color:white;background-color:pink; width:400px;">
     <h1 style="position:relative; left:20px;">
 
     <?PHP
@@ -119,7 +119,7 @@ td, th {
 th
 {
 
-	background-color:gainsboro;
+	background-color:teal;
 }
 
 td{
