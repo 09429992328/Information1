@@ -53,9 +53,9 @@ font-family: arial;
     align-items: center;
     width: 50px;
     height: 50px;
-    background-color: #008080;
+    background-color: #A5D8DD;
    border-right: 2px solid orange;
-    color: #008080;
+    color: #EA6A47;
 }
 .login form input[type="password"], .login form input[type="text"] {
     width: 310px;
@@ -68,15 +68,15 @@ font-family: arial;
     width: 100%;
     padding: 15px;
   margin-top: 20px;
-    background-color: #3274d6;
+    background-color: #A5D8DD;
     border: 0;
     cursor: pointer;
     font-weight: bold;
-    color: #008080;
+    color: #A5D8DD;
     transition: background-color 0.2s;
 }
 .login form input[type="submit"]:hover {
-  background-color: #FF000;
+  background-color: #A5D8DD;
     transition: background-color 0.2s;
 }
     </style>
