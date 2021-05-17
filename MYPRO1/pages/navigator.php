@@ -31,7 +31,7 @@ include("styles.php");
 		padding: 2px;
 	}
 	label{
-		color: red;
+		color: pink;
 		font-weight: normal;
 	}
 	.padtop{
