@@ -27,10 +27,10 @@ font-family: arial;
 
       .login {
     width: 400px;
-    background-color: #EA6A47;
+    background-color: #00008B;
     box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.3);
     margin: 50px auto;
-    border: 4px solid green;
+    border: 4px solid miracle;
 }
 .login h1 {
     text-align: center;
@@ -53,14 +53,14 @@ font-family: arial;
     align-items: center;
     width: 50px;
     height: 50px;
-    background-color: #EA6A47;
+    background-color: #00008B;
    border-right: 2px solid miracle;
-    color: #EA6A47;
+    color: #00008B;
 }
 .login form input[type="password"], .login form input[type="text"] {
     width: 310px;
     height: 50px;
-    border: 1px solid #dee0e4;
+    border: 1px solid #00008B;
     margin-bottom: 20px;
     padding: 0 15px;
 }
@@ -68,7 +68,7 @@ font-family: arial;
     width: 100%;
     padding: 15px;
   margin-top: 20px;
-    background-color: #3274d6;
+    background-color: #00008B;
     border: 0;
     cursor: pointer;
     font-weight: bold;
