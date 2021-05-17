@@ -27,7 +27,7 @@ font-family: arial;
 
       .login {
     width: 400px;
-    background-color: #ffffff;
+    background-color: #008080;
     box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.3);
     margin: 50px auto;
     border: 4px solid gray;
@@ -53,9 +53,9 @@ font-family: arial;
     align-items: center;
     width: 50px;
     height: 50px;
-    background-color: #ff8080;
+    background-color: #008080;
    border-right: 2px solid orange;
-    color: #ffffff;
+    color: #008080;
 }
 .login form input[type="password"], .login form input[type="text"] {
     width: 310px;
@@ -72,11 +72,11 @@ font-family: arial;
     border: 0;
     cursor: pointer;
     font-weight: bold;
-    color: #ffffff;
+    color: #008080;
     transition: background-color 0.2s;
 }
 .login form input[type="submit"]:hover {
-  background-color: #2868c7;
+  background-color: #FF000;
     transition: background-color 0.2s;
 }
     </style>
