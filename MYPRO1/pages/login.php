@@ -34,7 +34,7 @@ font-family: arial;
 }
 .login h1 {
     text-align: center;
-    color: pink;
+    color: white;
     font-size: 24px;
     padding: 20px 0 20px 0;
     border-bottom: 1px solid pink;
